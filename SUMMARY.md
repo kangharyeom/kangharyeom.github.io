@@ -6,9 +6,9 @@
 
 * [Link](link.md)
 
-## Legacy
+## Study
 
-* [공부 & 팁](study/and/README.md)
-    * [Java](study/and/java/README.md)
-        * [자바란 무엇일까?](study/and/java/javaMain.md)
-   
+* [공부](study/README.md)
+    * [Java](study/java/README.md)
+        * [자바란 무엇일까?](study/java/javaMain.md)
+    
